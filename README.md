@@ -7,8 +7,10 @@
 3. Leipää
 ***
 Lempi sivustoni on [Youtube](https://www.youtube.com/)
-> ## seuraavaksi jotain uutta
-> - Opetellaan tätä näin
-> - Miksi opetallaan
+> ## **Seuraavaksi jotain uutta!**
+> 
+> - Opetellaan tätä näin.
+> - Miksi opetallaan.
 >
->   Kaikki sujuu silti hyvin 
+>  *Kaikki sujuu silti hyvin!*
+

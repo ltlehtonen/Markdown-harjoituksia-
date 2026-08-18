@@ -17,10 +17,10 @@ Lempi sivustoni on [Youtube](https://www.youtube.com/)
 ![kuva gradiasta](https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/ygnooi1wvfyqdf5jbewc)
 ***
 ```
-{
+
 "firstName": "Leo",
 "Sukunimi": "Lehtonen",
 "Ikä": "15"
-}
+
 ```
 

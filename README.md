@@ -13,4 +13,7 @@ Lempi sivustoni on [Youtube](https://www.youtube.com/)
 > - Miksi opetallaan.
 >
 >  *Kaikki sujuu silti hyvin!*
+***
+![gradian logo](https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/ygnooi1wvfyqdf5jbewc)
+
 

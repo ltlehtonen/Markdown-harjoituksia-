@@ -14,6 +14,6 @@ Lempi sivustoni on [Youtube](https://www.youtube.com/)
 >
 >  *Kaikki sujuu silti hyvin!*
 ***
-!(https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/ygnooi1wvfyqdf5jbewc)
+![kuva gradiasta](https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/ygnooi1wvfyqdf5jbewc)
 
 
